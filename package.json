@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/morgancostigan/vega-quotes#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "jquery": "^3.3.1"
   }
 }
