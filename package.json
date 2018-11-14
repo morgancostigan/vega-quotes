@@ -1,0 +1,24 @@
+{
+  "name": "vega-quotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morgancostigan/vega-quotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morgancostigan/vega-quotes/issues"
+  },
+  "homepage": "https://github.com/morgancostigan/vega-quotes#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
